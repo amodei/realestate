@@ -1,0 +1,95 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+
+}
+
+.zf-green {
+    color: #68b604;
+}
+
+.btn-success {
+  background-color: #57a900;
+  background-image: -moz-linear-gradient(top, #70d900, #57a900);
+  background-image: -ms-linear-gradient(top, #70d900, #57a900);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#70d900), to(#57a900));
+  background-image: -webkit-linear-gradient(top, #70d900, #57a900);
+  background-image: -o-linear-gradient(top, #70d900, #57a900);
+  background-image: linear-gradient(top, #70d900, #57a900);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#70d900', endColorstr='#57a900', GradientType=0);
+}
+
+.btn-success:hover,
+.btn-success:active,
+.btn-success.active,
+.btn-success.disabled,
+.btn-success[disabled] {
+  background-color: #57a900;
+}
+
+.btn-success:active, .btn-success.active {
+  background-color: #57a900;
+}
+
+div.container a.brand {
+    background: url("../img/zf2-logo.png") no-repeat scroll 0 10px transparent;
+    margin-left: 0;
+    padding: 8px 20px 12px 40px;
+}
+.navbar-brand {
+    margin-top: -17px;
+}
+#name_logo {
+
+    margin-top: 1px;
+}
+#icon_logo {
+    margin-top: -7px;
+}
+.bottom-footer {
+    border-top: 1px solid #b2b2b2;
+    margin-top: 10px;
+    padding-top: 10px;
+    color: #b2b2b2;
+
+}
+footer {
+    font-size: 12px;
+    color: white;
+    position: absolute;
+    margin-top: 10px;
+
+}
+footer i {
+    color: powderblue;
+}
+#contacts-footer span{
+    color: greenyellow;
+}
+#links-footer a{
+    color: white;
+    cursor: pointer;
+}
+#links-footer span{
+    color: greenyellow;
+
+}
+#footer-icons li  {
+    display: inline;
+    text-align: right;
+    list-style: none;
+    padding: 5px;
+}
+#submitSearch  {
+    text-align: right;
+}
+#content {
+    margin-bottom: 20px;
+}
+#footer {
+    margin-top: 10px;
+}
+#block-right{
+    float: right;
+
+}
